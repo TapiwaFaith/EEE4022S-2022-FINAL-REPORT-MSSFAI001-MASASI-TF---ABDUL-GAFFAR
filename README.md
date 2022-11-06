@@ -32,3 +32,4 @@ Step 4: Run the code.
             ContrastAfterHaywood
 
 Note: The CSIR data used for this work is not included in this public repository.
+Note: In the case that the downloaded zipped folder does not work. Download the individual codes and put them in the same folder and run the main program.
