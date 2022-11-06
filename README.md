@@ -30,3 +30,5 @@ Step 4: Run the code.
             
             EntropyAfterHaywood
             ContrastAfterHaywood
+
+Note: The CSIR data used for this work is not included in this public repository.
